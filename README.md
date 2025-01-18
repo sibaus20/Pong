@@ -1,0 +1,1 @@
+This is a two player pong game that runs through prints to the console's log. The game can pause/resume and keeps a running score for each of the players. Switch it up a bit by altering the gameHeight and gameWidth as well as the balls speed by altering ballSpeedNerf.
